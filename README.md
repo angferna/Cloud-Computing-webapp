@@ -1,5 +1,5 @@
-# Cloud-Computing-webapp
-CSYE 6225
+# Cloud Computing Web Application
+CSYE 6225 - Network Structures & Cloud Computing
 
 Methodoloies used: Node.js, Express, AWS RDS, PostgreSQL, Terraform
 
